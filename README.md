@@ -1,4 +1,4 @@
-# TodoApp - Professional Java To-Do Application
+# TodoApp - Java To-Do Application
 
 A modern, well-structured Java Swing application for managing tasks with priority levels and completion tracking. This project demonstrates **clean Object-Oriented Programming (OOP) principles**, reusable components, and a professional UI design.
 
